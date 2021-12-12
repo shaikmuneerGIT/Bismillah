@@ -11,7 +11,7 @@ namespace ConsoleApp16
             string[] arr = str.Split('@');
 
 
-                    Console.WriteLine(arr[0]);
+                    Console.WriteLine(arr[1]);
                 
             Console.ReadKey();
             }
